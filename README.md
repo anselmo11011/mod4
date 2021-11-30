@@ -9,3 +9,4 @@
 - Git remote add origin https://anselmo11011.github.io/mod4/
 - Git branch -M main
 - Git push -u origin main
+- Git push
